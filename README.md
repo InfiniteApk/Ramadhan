@@ -15,5 +15,6 @@ Unveiling the "Ramadhan Cheat" app, your go-to companion for a whimsical twist o
 Just enter your name and age, hit "GO HACK", and let the app handle the rest. Designed for entertainment purposes, "Ramadhan Cheat" brings a light-hearted touch to tradition. Remember, it's all in jest, so let's keep the spirit of Ramadan alive with a smile!
 
 *Note: This app is created for fun and should not be taken seriously.
-
+<p align="center">
 <img src="https://github.com/InfiniteApk/Ramadhan/assets/164515565/139ce489-54ef-4c99-9869-f1422278fd90" width="300" height="300">
+</p>
